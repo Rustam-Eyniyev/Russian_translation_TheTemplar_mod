@@ -1,0 +1,140 @@
+{
+        "TheTemplar:BulwarkPower": {
+                "NAME": "Bulwark",
+                "DESCRIPTIONS": [
+                        "At the end of your turn, gain #b",
+                        " #yBlock, then reduce this by half."
+                ]
+        },
+        "TheTemplar:HopeEternalPower": {
+                "NAME": "Hope Eternal",
+                "DESCRIPTIONS": [
+                        "Your next #yAttack or #ySkill is played twice this turn."
+                ]
+        },
+        "TheTemplar:RingingChallengePower": {
+                "NAME": "Ringing Challenge",
+                "DESCRIPTIONS": [
+                        "Gain #yGreater #yRewards at the end of this combat."
+                ]
+        },
+        "TheTemplar:BattleTacticsPower": {
+                "NAME": "Battle Tactics",
+                "DESCRIPTIONS": [
+                        "If you have played exactly #b1 #yAttack during your turn, #yInscribe #b",
+                        " #yJustice at the end of your turn."
+                ]
+        },
+        "TheTemplar:ProtectiveBlessingPower": {
+                "NAME": "Protective Blessing",
+                "DESCRIPTIONS": [
+                        "Gain #b",
+                        " #yBlock whenever you trigger a #yBlessing."
+                ]
+        },
+        "TheTemplar:ResoluteWillPower": {
+                "NAME": "Resolute Will",
+                "DESCRIPTIONS": [
+                        "Increase the effect of #yJustice and #yFortitude by #b",
+                        "."
+                ]
+        },
+        "TheTemplar:GallantryPower": {
+                "NAME": "Gallantry",
+                "DESCRIPTIONS": [
+                        "At the start of your turn, if any enemies are #yEmpowered, gain #b",
+                        " temporary #yStrength and #b",
+                        " temporary #yDexterity."
+                ]
+        },
+        "TheTemplar:CleansingRitePower": {
+                "NAME": "Cleansing Rite",
+                "DESCRIPTIONS": [
+                        "Exhaust #b",
+                        " random #yCurse or #yStatus card at the end of your turn. If you do, #yInscribe #b1 #yCharity.",
+                        " random #yCurse or #yStatus cards at the end of your turn. If you do, #yInscribe #b1 #yCharity for each card #yExhausted."
+                ]
+        },
+        "TheTemplar:DivinePurposePower": {
+                "NAME": "Divine Purpose",
+                "DESCRIPTIONS": [
+                        "At the start of your turn, #yInscribe #b",
+                        " #yZeal."
+                ]
+        },
+        "TheTemplar:RetributionPower": {
+                "NAME": "Retribution",
+                "DESCRIPTIONS": [
+                        "Whenever you are attacked, gain #b",
+                        " Vigor."
+                ]
+        },
+        "TheTemplar:AltarPower": {
+                "NAME": "Altar",
+                "DESCRIPTIONS": [
+                        "If you have a #ynon-Zeal glyph #yInscribed at the end of your turn, #yInscribe #b",
+                        " additional glyph of that type.",
+                        " additional glyphs of that type."
+                ]
+        },
+        "TheTemplar:SacredHammerPower": {
+                "NAME": "Sacred Hammer",
+                "DESCRIPTIONS": [
+                        "The first attack you play each",
+                        "The next attack you play this",
+                        " turn deals double damage",
+                        " and costs #b0",
+                        "."
+                ]
+        },
+        "TheTemplar:FlameOfHeavenPower": {
+                "NAME": "Flame of Heaven",
+                "DESCRIPTIONS": [
+                        "If you play #b",
+                        " more card this turn, gain #b",
+                        " more cards this turn, gain #b",
+                        " #yBlock and add a #yFire #yof #yConviction to your hand.",
+                        " #yBlock and add an #yUpgraded #yFire #yof #yConviction to your hand."
+                ]
+        },
+        "TheTemplar:KingSwordPower": {
+                "NAME": "King Sword",
+                "DESCRIPTIONS": [
+                        "Your attacks apply #b1 #yVulnerable",
+                        " and #b1 #yWeak",
+                        ". Whenever you play an #yAttack, deal #b",
+                        " damage to ALL enemies."
+                ]
+        },
+        "TheTemplar:AegisPower": {
+                "NAME": "Aegis",
+                "DESCRIPTIONS": [
+                        "Gain #b",
+                        " #yBulwark at the start of your turn. At the end of your turn, deal damage equal to your #yBulwark to a random enemy."
+                ]
+        },
+        "TheTemplar:BookOfTheFivePower": {
+                "NAME": "Book of the Five",
+                "DESCRIPTIONS": [
+                        "The first #b",
+                        " times you #yInscribe a glyph each turn, #yInscribe an additional glyph of the same type. #b",
+                        " remaining this turn."
+                ]
+        },
+        "TheTemplar:ParagonFormPower": {
+                "NAME": "Paragon Form",
+                "DESCRIPTIONS": [
+                        "#yBlessing effects always trigger. Whenever you trigger a #yBlessing, draw #b",
+                        " card.",
+                        " cards."
+                ]
+        },
+        "TheTemplar:StalwartPower": {
+                "NAME": "Stalwart",
+                "DESCRIPTIONS": [
+                        "#yBulwark is retained this turn.",
+                        "#yBulwark is retained for #b",
+                        " turns."
+                ]
+        }
+}
